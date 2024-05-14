@@ -28,7 +28,7 @@
  
 
 FROM quay.io/SilvaTechB/SilvaGifted
-RUN git clone https://github.com/SilvaTechB/SilvaGifted /root/SilvaGifted
+RUN git clone https://github.com/Sylivanu/SilvaGifted /root/SilvaGifted
 WORKDIR /root/SilvaGifted/
 RUN npm install
 EXPOSE 8000
