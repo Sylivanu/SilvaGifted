@@ -1,7 +1,7 @@
 {
    "name": "silva-md",
    "version": "2.5.1",
-   "description": "Multi device whatsapp bot by GiftedTech.",
+   "description": "Multi device whatsapp bot by SilvaTech.",
    "main": "lib/smd.js",
    "type": "commonjs",  
    "scripts": {
@@ -72,8 +72,8 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/SilvaTechB/SilvaGifted.git"
+      "url": "git+https://github.com/Sylivanu/SilvaGifted.git"
    },
-   "bugs": { "url": "https://github.com/SilvaTechB/SilvaGifted/issues" },
+   "bugs": { "url": "https://github.com/Sylivanu/SilvaGifted/issues" },
    "homepage": "https://github.com/SilvaTechB/SilvaGifted#readme"
 }
